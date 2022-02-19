@@ -1,0 +1,11 @@
+	Processing the raw audio files is done using C++ 
+	run in the current directory:
+		$ make
+		$./output
+		
+	
+	To get the solution and output graphs run time2frequency.m on matlab
+
+
+	The GarminSolution.pdf contains my rationale you can also view it with
+	a md server on a web browser (see Garmin Challenge 2021.md)
